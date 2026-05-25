@@ -30,3 +30,4 @@ These steps are necessary to ensure correct execution and full reproducibility o
 
 No further configuration is required. All scripts and notebooks assume this directory structure when loading data and models. This setup ensures full reproducibility of the experiments and results presented in this thesis.
 
+**Read** [Thesis](https://drive.google.com/file/d/1mGrWO3faTp2xpHS3LlJcJpNe-ino9pNR/view)
